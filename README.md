@@ -4,6 +4,7 @@
 	Born2beroot
 </h1>
  <p align="center">
+ <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/nach131/Born2beroot?style=social">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/Born2beroot">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/Born2beroot">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nach131/Born2beroot">
