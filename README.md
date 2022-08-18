@@ -5,7 +5,7 @@
 	Born2beroot
 </h1>
  <p align="center">
-<img alt="total-views" src="https://img.shields.io/badge/views-107-blue">
+<img alt="total-views" src="https://img.shields.io/badge/views-101-blue">
 <img alt="total-clone" src="https://img.shields.io/badge/clone-131-blue">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/Born2beroot">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/Born2beroot">
