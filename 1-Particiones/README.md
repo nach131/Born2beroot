@@ -1,5 +1,5 @@
 ![](Particiones_01.png)
-![](Particiones_02png)
+![](Particiones_02.png)
 ![](Particiones_03.png)
 ![](Particiones_04.png)
 ![](Particiones_05.png)

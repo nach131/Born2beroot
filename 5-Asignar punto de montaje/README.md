@@ -1,0 +1,7 @@
+![](Punto_montaje_01.png)
+![](Punto_montaje_02.png)
+![](Punto_montaje_03.png)
+![](Punto_montaje_04.png)
+![](Punto_montaje_05.png)
+![](Punto_montaje_06.png)
+![](Punto_montaje_07.png)
