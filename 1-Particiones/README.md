@@ -1,0 +1,8 @@
+![](Particiones_01.png)
+![](Particiones_02png)
+![](Particiones_03.png)
+![](Particiones_04.png)
+![](Particiones_05.png)
+![](Particiones_06.png)
+![](Particiones_07.png)
+![](Particiones_08.png)
