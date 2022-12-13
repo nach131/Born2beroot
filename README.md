@@ -5,8 +5,8 @@
 	Born2beroot
 </h1>
  <p align="center">
-<img alt="total-views" src="https://img.shields.io/badge/views-23-blue">
-<img alt="total-clone" src="https://img.shields.io/badge/clone-48-blue">
+<img alt="total-views" src="https://img.shields.io/badge/views-73-blue">
+<img alt="total-clone" src="https://img.shields.io/badge/clone-47-blue">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/Born2beroot">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/Born2beroot">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nach131/Born2beroot">
