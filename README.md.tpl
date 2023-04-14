@@ -4,6 +4,7 @@
   
 	Born2beroot
 </h1>
+
  <p align="center">
 <img alt="total-views" src="https://img.shields.io/badge/views-total_views-blue">
 <img alt="total-clone" src="https://img.shields.io/badge/clone-total_clone-blue">
@@ -14,8 +15,10 @@
 </p>
 
 <h1 align="center">
+	
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nach131.Born2beroot&left_color=green&right_color=blue)
 
-![libft](https://github.com/nach131/42Barcelona/blob/main/images/125.png)
+![125](https://github.com/nach131/42Barcelona/blob/main/images/125.png)
 
 
 ## Indice

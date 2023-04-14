@@ -17,7 +17,7 @@
 	
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nach131.Born2beroot&left_color=green&right_color=blue)
 
-![libft](https://github.com/nach131/42Barcelona/blob/main/images/125.png)
+![125](https://github.com/nach131/42Barcelona/blob/main/images/125.png)
 
 
 ## Indice
