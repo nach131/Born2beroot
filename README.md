@@ -38,7 +38,8 @@
 
 Añadir grupo sudo al usuario
 
-    /sbin/usermod -aG sudo <user>
+    /sbin/usermod -aG sudo <username>
+    sudo -u <username> -i
     systemctl reboot
 
 Comprobar versión de sudo
